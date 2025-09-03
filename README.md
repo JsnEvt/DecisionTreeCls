@@ -62,7 +62,7 @@ O algoritmo **Random Forest** é um método de **ensemble learning**, combinando
          Cifose - arvores aleatorias.ipynb
          Execute as células em sequência com o comando Ctrl + Enter
 
-3. ### Opção 2: Usando terminal
+3. Opção 2: Usando terminal
       1. Acesse a pasta do projeto:
       ```bash
       cd DecisionTreeCls
