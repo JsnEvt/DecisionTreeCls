@@ -59,6 +59,8 @@ O algoritmo **Random Forest** é um método de **ensemble learning**, combinando
       2. Clique em **Launch** na opção **Jupyter Notebook**.  
       3. Navegue até a pasta do projeto.  
       4. Clique no arquivo:
+         Cifose - arvores aleatorias.ipynb
+         Execute as células em sequência com o comando Ctrl + Enter
 
 3. ### Opção 2: Usando terminal
       1. Acesse a pasta do projeto:
@@ -78,6 +80,7 @@ O algoritmo **Random Forest** é um método de **ensemble learning**, combinando
       ```bash
       jupyter notebook Cifose - arvores aleatorias.ipynb
       ```
+      5. Execute as células em sequência com o comando Ctrl + Enter
       
 ## 📖 Licença
 Este projeto está sob a licença MIT – sinta-se à vontade para usar e modificar.
