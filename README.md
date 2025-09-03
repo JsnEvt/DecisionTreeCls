@@ -54,5 +54,5 @@ O algoritmo **Random Forest** é um método de **ensemble learning**, combinando
    ```bash
    git clone https://github.com/JsnEvt/DecisionTreeCls.git
 
-📖 Licença
+## 📖 Licença
 Este projeto está sob a licença MIT – sinta-se à vontade para usar e modificar.
