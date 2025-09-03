@@ -53,8 +53,20 @@ O algoritmo **Random Forest** é um método de **ensemble learning**, combinando
 1. Clone este repositório:
    ```bash
    git clone https://github.com/JsnEvt/DecisionTreeCls.git
+Opção 1: Usando VS Code (mais simples)
 
-2. Opção 1: Usando Jupyter Notebook no Anaconda (mais simples)
+   1. Abra o **VS Code**.  
+   2. Instale as extensões necessárias (se ainda não tiver):  
+      - **Python** (Microsoft)  
+      - **Jupyter** (Microsoft)  
+   3. Vá em **Arquivo > Abrir Pasta** e selecione a pasta do projeto.  
+   4. Abra o arquivo:
+      ```bash
+      Cifose - arvores aleatorias.ipynb
+      ```
+   5. Execute as células usando `Shift + Enter`. 
+
+2. Opção 1: Usando Jupyter Notebook no Anaconda
       1. Abra o **Anaconda Navigator**.  
       2. Clique em **Launch** na opção **Jupyter Notebook**.  
       3. Navegue até a pasta do projeto.  
@@ -81,6 +93,8 @@ O algoritmo **Random Forest** é um método de **ensemble learning**, combinando
       jupyter notebook Cifose - arvores aleatorias.ipynb
       ```
       5. Execute as células em sequência com o comando Ctrl + Enter
+  
+   
       
 ## 📖 Licença
 Este projeto está sob a licença MIT – sinta-se à vontade para usar e modificar.
